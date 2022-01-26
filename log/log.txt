@@ -1,0 +1,184 @@
+2022-01-21 10:08:59,572 INFO c.a.Log4j [main] doing something with variable
+2022-01-21 10:41:17,740 INFO c.g.gsonExample [main] {"amount":100.0,"currency":"RON","cardNumber":"823175437534534","customerName":"Kratos of Sparta"}
+2022-01-21 10:46:02,642 INFO c.g.gsonExample [main] {
+  "amount": 100.0,
+  "currency": "RON",
+  "cardNumber": "823175437534534",
+  "customerName": "Kratos of Sparta"
+}
+2022-01-21 10:46:38,629 INFO c.g.gsonExample [main] 
+ {
+  "amount": 100.0,
+  "currency": "RON",
+  "cardNumber": "823175437534534",
+  "customerName": "Kratos of Sparta"
+}
+2022-01-21 10:50:05,721 INFO c.g.gsonExample [main] 
+ {
+  "amount": 100.0,
+  "currency": "RON",
+  "cardNumber": "823175437534534",
+  "customerName": "Kratos of Sparta"
+}
+2022-01-21 10:50:05,727 INFO c.g.gsonExample [main] true
+2022-01-21 11:00:20,039 INFO c.j.jacksonExample [main] {"amount":300.0,"currency":"EUR","cardNumber":"873458374598","customerName":"Atreus of Midgard"}
+2022-01-21 11:01:21,375 INFO c.j.jacksonExample [main] {"amount":300.0,"currency":"EUR","cardNumber":"873458374598","customerName":"Atreus of Midgard"}
+2022-01-21 11:01:21,416 INFO c.j.jacksonExample [main] true
+2022-01-21 12:22:04,855 INFO c.a.DBConnection [main] 1 George
+2022-01-21 12:22:04,859 INFO c.a.DBConnection [main] 2 Betty
+2022-01-21 12:22:04,860 INFO c.a.DBConnection [main] 3 Eduardo
+2022-01-21 12:22:04,860 INFO c.a.DBConnection [main] 4 Harold
+2022-01-21 12:22:04,860 INFO c.a.DBConnection [main] 5 Peter
+2022-01-21 12:22:04,860 INFO c.a.DBConnection [main] 6 Jean
+2022-01-21 12:22:04,860 INFO c.a.DBConnection [main] 7 Jeff
+2022-01-21 12:22:04,861 INFO c.a.DBConnection [main] 8 Maria
+2022-01-21 12:22:04,861 INFO c.a.DBConnection [main] 9 David
+2022-01-21 12:22:04,861 INFO c.a.DBConnection [main] 10 Carlos
+2022-01-21 12:22:23,510 INFO c.a.DBConnection [main] 1 George
+2022-01-21 12:22:23,516 INFO c.a.DBConnection [main] 2 Betty
+2022-01-21 12:22:23,516 INFO c.a.DBConnection [main] 3 Eduardo
+2022-01-21 12:22:23,517 INFO c.a.DBConnection [main] 4 Harold
+2022-01-21 12:22:23,517 INFO c.a.DBConnection [main] 5 Peter
+2022-01-21 12:22:23,517 INFO c.a.DBConnection [main] 6 Jean
+2022-01-21 12:22:23,517 INFO c.a.DBConnection [main] 7 Jeff
+2022-01-21 12:22:23,518 INFO c.a.DBConnection [main] 8 Maria
+2022-01-21 12:22:23,518 INFO c.a.DBConnection [main] 9 David
+2022-01-21 12:22:23,518 INFO c.a.DBConnection [main] 10 Carlos
+2022-01-26 10:52:57,545 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 10:52:57,554 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 10:52:57,568 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddOneNumber()
+2022-01-26 10:52:57,574 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddOneNumber()
+2022-01-26 10:52:57,581 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddMultipleNumbers()
+2022-01-26 10:52:57,582 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddMultipleNumbers()
+2022-01-26 10:52:57,585 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 10:52:57,586 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 10:52:57,589 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNoNumbers()
+2022-01-26 10:52:57,590 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNoNumbers()
+2022-01-26 10:52:57,594 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNegativeNumbers()
+2022-01-26 10:52:57,595 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNegativeNumbers()
+2022-01-26 10:55:58,652 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 10:55:58,661 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 10:55:58,676 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddOneNumber()
+2022-01-26 10:55:58,683 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddOneNumber()
+2022-01-26 10:55:58,687 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddMultipleNumbers()
+2022-01-26 10:55:58,689 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddMultipleNumbers()
+2022-01-26 10:55:58,693 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 10:55:58,694 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 10:55:58,697 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNoNumbers()
+2022-01-26 10:55:58,698 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNoNumbers()
+2022-01-26 10:55:58,703 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNegativeNumbers()
+2022-01-26 10:55:58,704 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNegativeNumbers()
+2022-01-26 11:40:48,790 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 11:40:48,799 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 11:40:48,810 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddOneNumber()
+2022-01-26 11:40:48,813 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddOneNumber()
+2022-01-26 11:40:48,816 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddMultipleNumbers()
+2022-01-26 11:40:48,817 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddMultipleNumbers()
+2022-01-26 11:40:48,820 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:40:48,821 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:40:48,825 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNoNumbers()
+2022-01-26 11:40:48,827 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNoNumbers()
+2022-01-26 11:40:48,829 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNegativeNumbers()
+2022-01-26 11:40:48,830 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNegativeNumbers()
+2022-01-26 11:41:36,745 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 11:41:36,758 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 11:41:36,775 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddOneNumber()
+2022-01-26 11:41:36,779 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddOneNumber()
+2022-01-26 11:41:36,782 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddMultipleNumbers()
+2022-01-26 11:41:36,783 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddMultipleNumbers()
+2022-01-26 11:41:36,788 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:41:36,790 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:41:36,794 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNoNumbers()
+2022-01-26 11:41:36,796 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNoNumbers()
+2022-01-26 11:41:36,800 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNegativeNumbers()
+2022-01-26 11:41:36,801 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNegativeNumbers()
+2022-01-26 11:53:54,032 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 11:53:54,042 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 11:53:54,066 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:53:54,076 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:54:46,467 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:54:46,479 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:56:11,880 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 11:56:11,890 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 11:56:11,912 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 11:56:11,916 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNumbersGivenZero()
+2022-01-26 12:14:47,680 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 0, 2
+2022-01-26 12:14:47,739 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 0, 2
+2022-01-26 12:14:47,761 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 2, 0
+2022-01-26 12:14:47,763 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 2, 0
+2022-01-26 12:55:17,151 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddMultipleNumbers(int[])
+2022-01-26 12:55:17,160 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddMultipleNumbers(int[])
+2022-01-26 12:55:17,263 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] numberSource.csv
+2022-01-26 12:55:17,299 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] numberSource.csv
+2022-01-26 12:55:41,327 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 12:55:41,336 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 12:55:41,352 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddOneNumber()
+2022-01-26 12:55:41,362 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddOneNumber()
+2022-01-26 12:55:41,464 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] numberSource.csv
+2022-01-26 12:55:41,509 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] numberSource.csv
+2022-01-26 12:55:41,544 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 0, 2
+2022-01-26 12:55:41,548 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 0, 2
+2022-01-26 12:55:41,556 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 2, 0
+2022-01-26 12:55:41,559 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 2, 0
+2022-01-26 12:55:41,565 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNoNumbers()
+2022-01-26 12:55:41,566 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNoNumbers()
+2022-01-26 12:55:41,572 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNegativeNumbers()
+2022-01-26 12:55:41,574 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNegativeNumbers()
+2022-01-26 13:01:51,154 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 13:01:51,163 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 13:01:51,175 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddOneNumber()
+2022-01-26 13:01:51,181 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddOneNumber()
+2022-01-26 13:01:51,252 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 1, 2, 3
+2022-01-26 13:01:51,281 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 1, 2, 3
+2022-01-26 13:01:51,289 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 2, 4, 5
+2022-01-26 13:01:51,290 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 2, 4, 5
+2022-01-26 13:01:51,299 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 0, 2
+2022-01-26 13:01:51,301 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 0, 2
+2022-01-26 13:01:51,305 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 2, 0
+2022-01-26 13:01:51,306 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 2, 0
+2022-01-26 13:01:51,310 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNoNumbers()
+2022-01-26 13:01:51,311 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNoNumbers()
+2022-01-26 13:01:51,313 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNegativeNumbers()
+2022-01-26 13:01:51,314 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNegativeNumbers()
+2022-01-26 13:03:30,592 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 13:03:30,598 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 13:03:30,610 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddOneNumber()
+2022-01-26 13:03:30,616 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddOneNumber()
+2022-01-26 13:03:30,679 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 1, 2, 3
+2022-01-26 13:03:30,707 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 1, 2, 3
+2022-01-26 13:03:30,715 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 2, 4, 5
+2022-01-26 13:03:30,716 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 2, 4, 5
+2022-01-26 13:03:30,726 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 0, 2
+2022-01-26 13:03:30,727 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 0, 2
+2022-01-26 13:03:30,732 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 2, 0
+2022-01-26 13:03:30,733 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 2, 0
+2022-01-26 13:03:30,737 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNoNumbers()
+2022-01-26 13:03:30,738 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNoNumbers()
+2022-01-26 13:03:30,740 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNegativeNumbers()
+2022-01-26 13:03:30,741 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNegativeNumbers()
+2022-01-26 13:06:32,859 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 1, 2, 3
+2022-01-26 13:06:32,902 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 1, 2, 3
+2022-01-26 13:06:32,918 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 4, 5, 6
+2022-01-26 13:06:32,919 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 4, 5, 6
+2022-01-26 13:06:32,923 INFO c.e.TestReporterExtension [main] Starting test basicTest/[3] 8, 9, 10
+2022-01-26 13:06:32,925 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[3] 8, 9, 10
+2022-01-26 13:34:15,288 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddBigNumbers()
+2022-01-26 13:34:15,289 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddBigNumbers()
+2022-01-26 13:34:15,296 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddOneNumber()
+2022-01-26 13:34:15,296 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddOneNumber()
+2022-01-26 13:34:15,355 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 1, 2, 3
+2022-01-26 13:34:15,387 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 1, 2, 3
+2022-01-26 13:34:15,396 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 2, 4, 5
+2022-01-26 13:34:15,396 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 2, 4, 5
+2022-01-26 13:34:15,396 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 0, 2
+2022-01-26 13:34:15,396 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 0, 2
+2022-01-26 13:34:15,413 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 2, 0
+2022-01-26 13:34:15,413 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 2, 0
+2022-01-26 13:34:15,416 INFO c.e.TestReporterExtension [main] Starting test basicTest/shouldAddNoNumbers()
+2022-01-26 13:34:15,416 INFO c.e.TestReporterExtension [main] Finishing test basicTest/shouldAddNoNumbers()
+2022-01-26 13:34:15,512 INFO c.e.TestReporterExtension [main] Starting test basicTest/[1] 1, 2, 3
+2022-01-26 13:34:15,512 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[1] 1, 2, 3
+2022-01-26 13:34:15,530 INFO c.e.TestReporterExtension [main] Starting test basicTest/[2] 4, 5, 6
+2022-01-26 13:34:15,531 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[2] 4, 5, 6
+2022-01-26 13:34:15,533 INFO c.e.TestReporterExtension [main] Starting test basicTest/[3] 8, 9, 10
+2022-01-26 13:34:15,534 INFO c.e.TestReporterExtension [main] Finishing test basicTest/[3] 8, 9, 10
