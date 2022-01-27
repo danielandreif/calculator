@@ -14,10 +14,21 @@
    - expertMultiplyTests: tests for the multiply operation including asserts.
    - expertPowTests: tests for the powerOf operation including asserts.
    - expertFactTests: tests for the factorial operation including asserts.
-2. *MAKE THE SAME TESTS RUN ONLY ON VERIFY PHASE*
-3. *REFACTOR TEST REPORTER EXTENSION TO USE LOGGER*
-4. *A WAY TO SKIP TESTS FOR SUREFIRE PLUGIN*
-5. *TEST EXECUTION LISTENER AND REPLACE REST REPORTER EXTENSION*
+2. ```
+   <goals>
+    <goal>integration-test</goal>
+    <goal>verify</goal>
+   </goals>   
+4. ```
+   public static final Logger LOGGER = LogManager.getLogger(TestReporterExtension.class);
+    @Override
+    public void beforeTestExecution(ExtensionContext extensionContext) {
+        LOGGER.info("Starting test {}/{}", extensionContext.getTestClass().get().getSimpleName(), extensionContext.getDisplayName());
+    }
+5. ```
+   Surefire: mvn install -DskipTests
+   Failsafe: mvn install -DskipITs
+6. *TEST EXECUTION LISTENER AND REPLACE REST REPORTER EXTENSION*
 
 ---
 
