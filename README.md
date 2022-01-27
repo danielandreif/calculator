@@ -15,7 +15,7 @@ HOMEWORK JUnit Day one:
    4. *A WAY TO SKIP TESTS FOR SUREFIRE PLUGIN*
    5. *TEST EXECUTION LISTENER AND REPLACE REST REPORTER EXTENSION*
  HOMEWORK JUnit Day two (asserts):
-// 1. The original addition tests were refactored to use the AssertJ library.
+// 1. The original addition tests were refactored to use the AssertJ library. 
 
 
 ⠸⣷⣦⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⠀⠀⠀
