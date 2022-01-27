@@ -29,7 +29,7 @@ public class mainTest {
 //        System.out.println(basicOp.divide(4.5,2.5));
 //        System.out.println("------------------------------------");
 
-        //homework below. also please see attached unit tests.
+        //Homework for course 6&7 (Day 6-7) below. Also please see relevant unit tests in expertEquationTests.
         System.out.println(expOp.calculate("((2+2)*3) + (((2 - 1) + 4) * (2+2))"));
     }
 }

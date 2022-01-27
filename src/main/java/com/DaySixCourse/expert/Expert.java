@@ -53,8 +53,8 @@ public class Expert extends Basic implements ExpertOperations {
         } catch (NumberFormatException e) {
             if (s.contains("(")) {
                 setInput(s);
-                int startIndex = multipleStartingBrackets();
-                int endIndex = multipleEndingBrackets();
+                int startIndex = calcStartIndex();
+                int endIndex = calcEndIndex();
                 String left = s.substring(0, startIndex);
                 String right = s.substring(endIndex + 1);
                 String center = s.substring((startIndex + 1), endIndex);
@@ -99,17 +99,17 @@ public class Expert extends Basic implements ExpertOperations {
             throw new RuntimeException("Operator field needs to have at least one value");
         }
     }
-
+//Methods might not be needed here but it makes i
     @Override
-    public int multipleStartingBrackets() {
+    public int calcStartIndex() {
         String userString = getInput();
         return userString.lastIndexOf("(");
     }
 
     @Override
-    public int multipleEndingBrackets() {
+    public int calcEndIndex() {
         String userString = getInput();
-        return userString.indexOf(")", multipleStartingBrackets());
+        return userString.indexOf(")", calcStartIndex());
     }
 
     public String getInput() {

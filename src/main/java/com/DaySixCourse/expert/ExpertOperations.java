@@ -7,7 +7,7 @@ public interface ExpertOperations {
     long fact(int number);
     long factRec(int number);
     double calculate(String s);
-    int multipleStartingBrackets();
-    int multipleEndingBrackets();
+    int calcStartIndex();
+    int calcEndIndex();
 
 }
