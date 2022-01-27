@@ -32,9 +32,9 @@
 5. - Created the template for the listener in CustomTestExecutionListener. Used some methods available to retrieve some info.
    - Implemented the launcher in ExecutionListenerImplement (listener() method) -> making it point to the test classes.
    - Calling the listener() method before each test for now. Must be another way to make it run by default? Let me know.
-   - Issues atm: both JUnit Vintage & Jupiter are being executed at the same time and logged. Only one engine should run
-                 the DisplayName() method call returns the engine name instead of the actual display name. Probably related to the TestPlan.
-
+  ### Issues atm: 
+  ### Both JUnit Vintage & Jupiter are being executed at the same time and logged. Only one engine should run. 
+  ### DisplayName() method call returns the engine name instead of the actual display name. Probably related to the TestPlan.
 ---
 
 ### HOMEWORK JUnit Day two (asserts):
