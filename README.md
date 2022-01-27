@@ -9,7 +9,8 @@
 ---
 
 ### HOMEWORK JUnit day one:
-1. //WIP// THE ASSERTS ARE NOT DONE YET Tests can be divided as follows: 
+1. //TODO// THE ASSERTS ARE NOT DONE YET for the 3 expert op's. 
+     Tests can be divided as follows: 
    - basicAdditionTests: tests for the addition operation including asserts.
    - expertMultiplyTests: tests for the multiply operation including asserts.
    - expertPowTests: tests for the powerOf operation including asserts.
@@ -31,6 +32,8 @@
 5. - Created the template for the listener in CustomTestExecutionListener. Used some methods available to retrieve some info.
    - Implemented the launcher in ExecutionListenerImplement (listener() method) -> making it point to the test classes.
    - Calling the listener() method before each test for now. Must be another way to make it run by default? Let me know.
+   - Issues atm: both JUnit Vintage & Jupiter are being executed at the same time and logged. Only one engine should run
+                 the DisplayName() method call returns the engine name instead of the actual display name. Probably related to the TestPlan.
 
 ---
 
