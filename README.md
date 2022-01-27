@@ -4,7 +4,7 @@
 
 ### HOMEWORK Day 6&7:
  1. Day 6&7 homework for the calculator can be found in java -> com -> DaySixCourse -> basic/expert.
- 2. See implementation of the parentheses in the expert calculator and afferent unit tests in expertEquationTests.
+ 2. See implementation of the parentheses in the expert calculator and afferent unit tests in expertEquationTests. (Tests will be updated)
 
 ---
 
