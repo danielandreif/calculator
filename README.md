@@ -3,8 +3,8 @@
 ## Personal repository for the Endava Automation incubator homework assignments & courses.
 
 ### HOMEWORK Day 6&7:
- 1. Day 6&7 homework for the calculator can be found in java -> com -> DaySixCourse -> basic/expert.
- 2. See implementation of the parentheses in the expert calculator and afferent unit tests in expertEquationTests. (Tests will be updated)
+ 1.  - Day 6&7 homework for the calculator can be found in java -> com -> DaySixCourse -> basic/expert.
+ 2.  - See implementation of the parentheses in the expert calculator and afferent unit tests in expertEquationTests. (Tests will be updated)
 
 ---
 
@@ -30,12 +30,11 @@
    Surefire: mvn install -DskipTests
    Failsafe: mvn install -DskipITs
 5. - Created the template for the listener in CustomTestExecutionListener. Used some methods available to retrieve some info.
-   - Implemented the launcher in ExecutionListenerImplement (listener() method) -> making it point to the test classes.
-   - Calling the listener() method before each test for now. Must be another way to make it run by default? Let me know.
-  ### Issues atm: 
-  ### Both JUnit Vintage & Jupiter engines are being executed at the same time and logged. Only one engine should run. 
-  ### DisplayName() method call returns the engine name instead of the actual display name. Probably related to the TestPlan.
+  
 ---
 
 ### HOMEWORK JUnit Day two (asserts):
 1. The original addition tests were refactored to use the AssertJ library.
+
+### HOMEWORK Rest Assured:
+1. 
