@@ -15,6 +15,6 @@ public class CustomTestExecutionListener implements TestExecutionListener {
     @Override
     public void executionFinished(TestIdentifier testIdentifier, TestExecutionResult testExecutionResult) {
         LOGGER.info("Execution of test {} finished with {} result", testIdentifier.getDisplayName(), testExecutionResult.getStatus());
-        LOGGER.info("--------");
+        LOGGER.info("--------------------------------------");
     }
 }

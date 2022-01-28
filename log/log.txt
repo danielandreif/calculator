@@ -1852,3 +1852,567 @@
 2022-01-27 20:35:41,098 INFO c.e.CustomTestExecutionListener [main] --------
 2022-01-27 20:35:41,098 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
 2022-01-27 20:35:41,098 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,606 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,617 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,628 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,629 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,629 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,629 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,630 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,630 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,632 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,632 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,633 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,633 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,800 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,801 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,801 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,802 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,802 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,802 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,802 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,802 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,802 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,803 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,803 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,803 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,819 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,820 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,820 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,821 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,821 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,821 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,821 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,821 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,822 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,822 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,822 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,822 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,833 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,833 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,834 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,834 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,834 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,834 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,834 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,834 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,834 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,835 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,835 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,835 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,849 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,849 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,849 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,850 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,850 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,850 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,850 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,850 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,850 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,851 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,851 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,851 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,862 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,863 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,863 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,863 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,864 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,865 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,865 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,865 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,865 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,866 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,866 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,898 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,898 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:45,899 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,025 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:46,025 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:46,025 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:46,026 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,026 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:46,026 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,026 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:46,026 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:46,026 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:46,026 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,027 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:46,027 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,036 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:46,036 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:46,036 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:46,036 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,036 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:46,037 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,037 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:46,037 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:46,037 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:46,037 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,037 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:46,037 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,045 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:46,045 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:46,045 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:46,045 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,045 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:46,046 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,046 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:46,046 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:46,046 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:46,046 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,046 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:46,046 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,055 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:46,055 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 09:32:46,055 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:46,055 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,055 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 09:32:46,056 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,056 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:46,056 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 09:32:46,057 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:46,057 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 09:32:46,058 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 09:32:46,058 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,134 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,138 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,139 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,293 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,311 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,311 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,312 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,312 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,312 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,312 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,313 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,313 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,313 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,313 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,313 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,313 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,325 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,325 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,326 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,326 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,326 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,326 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,326 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,326 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,327 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,327 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,327 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,327 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,337 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,337 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,337 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,337 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,337 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,337 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,338 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,338 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,338 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,338 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,339 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,339 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,341 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,372 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,473 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,488 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,488 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,488 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,488 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,488 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,488 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,488 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,488 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 14:52:52,494 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,566 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,683 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,683 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,684 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,684 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,684 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,685 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,685 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,685 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,685 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,685 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,686 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,686 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,699 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,715 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,727 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,750 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,750 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,750 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,751 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,751 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,751 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,751 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,751 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,751 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,751 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,752 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,752 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,832 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,848 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:37:44,864 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,786 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,791 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,798 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,799 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,799 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,799 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,901 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,901 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,901 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,901 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,901 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,917 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,936 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,936 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,936 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,936 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,936 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,936 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,936 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,952 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,952 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,952 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,952 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,952 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,962 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,997 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,998 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:01,998 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,999 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:01,999 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:01,999 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:02,085 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 15:54:02,102 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:39,686 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 16:15:39,695 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 16:15:39,696 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:39,738 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 16:15:39,768 INFO c.e.CustomTestExecutionListener [main] Execution of test basicAdditionTest started
+2022-01-28 16:15:39,780 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using csv source started
+2022-01-28 16:15:39,853 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3, 6 started
+2022-01-28 16:15:40,005 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3, 6 finished with SUCCESSFUL result
+2022-01-28 16:15:40,005 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,011 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 2, 4, 5, 11 started
+2022-01-28 16:15:40,013 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 2, 4, 5, 11 finished with SUCCESSFUL result
+2022-01-28 16:15:40,014 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,015 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using csv source finished with SUCCESSFUL result
+2022-01-28 16:15:40,015 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,016 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using method source started
+2022-01-28 16:15:40,021 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3 started
+2022-01-28 16:15:40,024 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3 finished with SUCCESSFUL result
+2022-01-28 16:15:40,024 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,026 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 3, 4, 7 started
+2022-01-28 16:15:40,028 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 3, 4, 7 finished with SUCCESSFUL result
+2022-01-28 16:15:40,029 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,033 INFO c.e.CustomTestExecutionListener [main] Execution of test [3] -4, -2, -6 started
+2022-01-28 16:15:40,035 INFO c.e.CustomTestExecutionListener [main] Execution of test [3] -4, -2, -6 finished with SUCCESSFUL result
+2022-01-28 16:15:40,036 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,036 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using method source finished with SUCCESSFUL result
+2022-01-28 16:15:40,036 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,038 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using max value started
+2022-01-28 16:15:40,054 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using max value finished with SUCCESSFUL result
+2022-01-28 16:15:40,054 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,056 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition with one number started
+2022-01-28 16:15:40,057 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition with one number finished with SUCCESSFUL result
+2022-01-28 16:15:40,058 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,059 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using csv file started
+2022-01-28 16:15:40,157 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3, 6 started
+2022-01-28 16:15:40,159 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3, 6 finished with SUCCESSFUL result
+2022-01-28 16:15:40,160 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,161 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 4, 5, 6, 15 started
+2022-01-28 16:15:40,163 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 4, 5, 6, 15 finished with SUCCESSFUL result
+2022-01-28 16:15:40,164 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,166 INFO c.e.CustomTestExecutionListener [main] Execution of test [3] 8, 9, 10, 27 started
+2022-01-28 16:15:40,168 INFO c.e.CustomTestExecutionListener [main] Execution of test [3] 8, 9, 10, 27 finished with SUCCESSFUL result
+2022-01-28 16:15:40,168 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,169 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using csv file finished with SUCCESSFUL result
+2022-01-28 16:15:40,169 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,170 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition with no numbers started
+2022-01-28 16:15:40,172 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition with no numbers finished with SUCCESSFUL result
+2022-01-28 16:15:40,172 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,175 INFO c.e.CustomTestExecutionListener [main] Execution of test basicAdditionTest finished with SUCCESSFUL result
+2022-01-28 16:15:40,175 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:15:40,175 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 16:15:40,175 INFO c.e.CustomTestExecutionListener [main] --------
+2022-01-28 16:41:29,556 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage started
+2022-01-28 16:41:29,556 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Vintage finished with SUCCESSFUL result
+2022-01-28 16:41:29,572 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,607 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter started
+2022-01-28 16:41:29,624 INFO c.e.CustomTestExecutionListener [main] Execution of test basicAdditionTest started
+2022-01-28 16:41:29,639 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using csv source started
+2022-01-28 16:41:29,689 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3, 6 started
+2022-01-28 16:41:29,807 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3, 6 finished with SUCCESSFUL result
+2022-01-28 16:41:29,807 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,807 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 2, 4, 5, 11 started
+2022-01-28 16:41:29,807 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 2, 4, 5, 11 finished with SUCCESSFUL result
+2022-01-28 16:41:29,822 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,822 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using csv source finished with SUCCESSFUL result
+2022-01-28 16:41:29,822 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using method source started
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3 started
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3 finished with SUCCESSFUL result
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 3, 4, 7 started
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 3, 4, 7 finished with SUCCESSFUL result
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] Execution of test [3] -4, -2, -6 started
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] Execution of test [3] -4, -2, -6 finished with SUCCESSFUL result
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using method source finished with SUCCESSFUL result
+2022-01-28 16:41:29,824 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,839 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using max value started
+2022-01-28 16:41:29,839 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using max value finished with SUCCESSFUL result
+2022-01-28 16:41:29,839 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,839 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition with one number started
+2022-01-28 16:41:29,855 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition with one number finished with SUCCESSFUL result
+2022-01-28 16:41:29,855 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,857 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using csv file started
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3, 6 started
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] Execution of test [1] 1, 2, 3, 6 finished with SUCCESSFUL result
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 4, 5, 6, 15 started
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] Execution of test [2] 4, 5, 6, 15 finished with SUCCESSFUL result
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] Execution of test [3] 8, 9, 10, 27 started
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] Execution of test [3] 8, 9, 10, 27 finished with SUCCESSFUL result
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,941 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition using csv file finished with SUCCESSFUL result
+2022-01-28 16:41:29,956 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,956 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition with no numbers started
+2022-01-28 16:41:29,956 INFO c.e.CustomTestExecutionListener [main] Execution of test Addition with no numbers finished with SUCCESSFUL result
+2022-01-28 16:41:29,956 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,956 INFO c.e.CustomTestExecutionListener [main] Execution of test basicAdditionTest finished with SUCCESSFUL result
+2022-01-28 16:41:29,956 INFO c.e.CustomTestExecutionListener [main] --------------------------------------
+2022-01-28 16:41:29,956 INFO c.e.CustomTestExecutionListener [main] Execution of test JUnit Jupiter finished with SUCCESSFUL result
+2022-01-28 16:41:29,956 INFO c.e.CustomTestExecutionListener [main] --------------------------------------

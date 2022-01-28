@@ -1,10 +1,7 @@
 package com.calculator;
 
 import com.DaySixCourse.basic.Basic;
-import com.extensions.ExecutionListenerImplement;
-import com.extensions.TestReporterExtension;
 import org.junit.jupiter.api.*;
-import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.CsvFileSource;
@@ -21,7 +18,6 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 public class basicAdditionTest {
 
     private Basic calculator;
-    private ExecutionListenerImplement listener = new ExecutionListenerImplement() {};
     //Parameterized test number generator // Helper method
     public static List<Arguments> numberProvider(){
         List<Arguments> argumentList = new ArrayList<>();
@@ -35,7 +31,7 @@ public class basicAdditionTest {
     @BeforeEach
     public void BeforeEach(){
         calculator = new Basic() {};
-        listener.listener();
+
     }
     //Parameterized tests
     @DisplayName("Addition using method source")
@@ -95,7 +91,4 @@ public class basicAdditionTest {
         assertThat(result).isNotNull()
                           .isEqualTo(4);
     }
-
-    //EXTENSION LISTENER LauncherFactory.create().registerTestExecutionListeneres(MyCustomTestListener)
-    //IMPLEMENT EXTENSION LISTENER WITH CUSTOM LOGGING // LOG LISTENER
 }
