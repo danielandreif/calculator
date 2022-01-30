@@ -4,16 +4,16 @@
 
 ### HOMEWORK Day 6&7:
  1.  - Day 6&7 homework for the calculator can be found in java -> com -> DaySixCourse -> basic/expert.
- 2.  - See implementation of the parentheses in the expert calculator and afferent unit tests in expertEquationTests. (Tests will be updated)
+ 2.  - See implementation of the parentheses in the expert calculator and afferent unit tests in expertEquationTests.
 
 ---
 
 ### HOMEWORK JUnit day one:
-1. //TODO// THE ASSERTS ARE NOT DONE YET for the 3 expert op's. 
+1.  
      Tests can be divided as follows: 
    - basicAdditionTests: tests for the addition operation including asserts.
    - expertMultiplyTests: tests for the multiply operation including asserts.
-   - expertPowTests: tests for the powerOf operation including asserts.
+   - expertEquationests: tests for the paranthesis operation including asserts.
    - expertFactTests: tests for the factorial operation including asserts.
 2. ```
    <goals>
@@ -29,7 +29,7 @@
 4. ```
    Surefire: mvn install -DskipTests
    Failsafe: mvn install -DskipITs
-5. - Created the template for the listener in CustomTestExecutionListener. Used some methods available to retrieve some info.
+5. - Created the template for the listener in CustomTestExecutionListener. Used some methods available to retrieve DisplayName and status of tests.
   
 ---
 
@@ -37,4 +37,4 @@
 1. The original addition tests were refactored to use the AssertJ library.
 
 ### HOMEWORK Rest Assured:
-1. 
+1. WIP
