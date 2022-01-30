@@ -1,17 +1,16 @@
 package com.DaySixCourse.basic;
 
+import java.text.DecimalFormat;
+
 public class Basic implements BasicOperations {
 
     protected int decimals;
-
     public Basic() {
         decimals = 10;
     }
-
     public Basic(int decimals) {
         this.decimals = 10;
     }
-
 
     @Override
     public double subtract(int... no) {
@@ -69,6 +68,9 @@ public class Basic implements BasicOperations {
 
     @Override
     public long multiply(int... no) {
+        if (no == null || no.length == 0) {
+            return 0;
+        }
         long result = no[0];
         for (int i = 1; i < no.length; i++) {
             result *= no[i];

@@ -1,48 +1,55 @@
 package com.calculator;
 
+import com.DaySixCourse.basic.Basic;
 import com.DaySixCourse.expert.Expert;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 
-import static org.junit.jupiter.api.Assertions.*;
-
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class expertEquationTest {
 
-    Expert calculator = new Expert() {};
+    private Expert calculator;
 
+    @BeforeEach
+    public void BeforeEach(){
+        calculator = new Expert() {};
+    }
+
+    @DisplayName("Bracket opening at start")
+    @Tags({@Tag("Expert"), @Tag("Equation")})
     @Test
-    public void doubleParanthesesPowerOf() {
+    public void shouldHandleOpeningBrackets() {
         double result = calculator.calculate("(( 2 ^ 2) * 3) + 2");
-        //Asserts
-        assertEquals(14, result);
+        assertThat(result).isNotNull()
+                .isEqualTo(14);
     }
 
-    @Test
-    public void doubleParanthesesPlus() {
-        double result = calculator.calculate("((2 + 2) * 3) + 2");
-        //Asserts
-        assertEquals(14, result);
-    }
 
+    @DisplayName("Bracket opening at end")
+    @Tags({@Tag("Expert"), @Tag("Equation")})
     @Test
-    public void doubleParanthesesMinus() {
-        double result = calculator.calculate("((10 - 4) - 3) - 2");
-        //Asserts
-        assertEquals(1, result);
-    }
-
-    @Test
-    public void doubleParanthesesWithaTwist() {
+    public void shouldHandleOpeningBracketsAtEnd() {
         double result = calculator.calculate("(2 + 2 * (3 + 2))");
-        //Asserts
-        assertEquals(12, result);
+        assertThat(result).isNotNull()
+                .isEqualTo(12);
     }
 
+    @DisplayName("Multiple opening/closing brackets")
+    @Tags({@Tag("Expert"), @Tag("Equation")})
     @Test
-    public void doubleParanthesesMoreOperations() {
+    public void shouldHandleMultipleBrackets() {
         double result = calculator.calculate("((2+2)*3) + ((2 - 1) + 4 * (2+2))");
-        //Asserts
-        assertEquals(29, result);
+        assertThat(result).isNotNull()
+                .isEqualTo(29);
+    }
+
+    @DisplayName("Enclosing bracket")
+    @Tags({@Tag("Expert"), @Tag("Equation")})
+    @Test
+    public void shouldHandlEnclosingBrackets() {
+        double result = calculator.calculate("(((2+2)*3) + ((2 - 1) + 4 * (2+2)))");
+        assertThat(result).isNotNull()
+                .isEqualTo(29);
     }
 }
 

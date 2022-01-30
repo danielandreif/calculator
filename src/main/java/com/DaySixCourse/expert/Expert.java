@@ -7,6 +7,7 @@ public class Expert extends Basic implements ExpertOperations {
     private final String[] operators = {"+", "-", "*", "/", "%", "^"};
     private String userInput = null;
 
+
     @Override
     public double pow(double base, double exponent) {
         double result = 1;

@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.platform.engine.TestExecutionResult;
 import org.junit.platform.launcher.*;
+
 public class CustomTestExecutionListener implements TestExecutionListener {
 
     public static final Logger LOGGER = LogManager.getLogger(CustomTestExecutionListener.class);

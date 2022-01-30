@@ -14,7 +14,6 @@ import java.util.List;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-
 public class basicAdditionTest {
 
     private Basic calculator;
@@ -31,7 +30,6 @@ public class basicAdditionTest {
     @BeforeEach
     public void BeforeEach(){
         calculator = new Basic() {};
-
     }
     //Parameterized tests
     @DisplayName("Addition using method source")
